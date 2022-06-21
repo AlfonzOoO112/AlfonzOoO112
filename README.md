@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlfonzOoO112
 - 👀 I’m interested in coding and game development.
-- 🌱 I’m currently learning Unity and c++.
+- 🌱 I’m currently learning Unity and python.
 
 <!---
 AlfonzOoO112/AlfonzOoO112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
